@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Adib, a engineer based in Indonesia<br><br>These days I’m focused on:<br><br>PHP, JavaScript, Python
+I’m Adib, a guy from Indonesia who likes to tinker with programs.<br>
 
 
 # 💻 Tech Stack:
